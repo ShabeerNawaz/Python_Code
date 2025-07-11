@@ -10,7 +10,7 @@ print(str1.capitalize())
 print(str2.replace("a","aa"))
 
 #Condition Statements
-
+"""
 #first program to check traffic light color
 light = input("Enter traffic light color:")
 if(light=="red"):
@@ -21,7 +21,7 @@ elif(light=="yellow"):
     print("wait")
 else:
     print("Invalid Input")
-print("End of Program")
+print("End of Program traffic light color")
 
 #grade calculation program
 
@@ -40,3 +40,5 @@ if(marks<=100 and marks>0):
         print("Pass *")
     else:
         print("Fail")
+"""
+
