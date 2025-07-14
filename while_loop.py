@@ -33,3 +33,5 @@ while num2 <= 10:
     else:
         print(num2)
     num2+=1
+    
+    

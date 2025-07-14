@@ -52,6 +52,8 @@ for item in num1:
     print(item)
     
 num2=range(1,10,2) #start ,stop and step conditions
-
+#Odd numbers from 1 to 10
 for item in num2:
     print(item)
+    
+    
