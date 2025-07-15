@@ -1,6 +1,5 @@
-"""
-functions mostly are used 4 reusability of code
-remove the duplicate code
+#functions mostly are used 4 reusability of code
+#remove the duplicate code
 a = 10
 b=8
 
@@ -41,12 +40,10 @@ def calc_avg(a,b,c):
     return avg
 
 print(calc_avg(60,78,90))
-"""
 
 list1 =[5,7,9,4,2,1,8,6,4]
 list2=["shah", "shani","shabeer","syed","ameer","dilbar"]
 
-"""
 #WAF to print length of list
 
 def len_list(lst):
@@ -65,7 +62,6 @@ print_list(list1)
 print()  # for new line
 print_list(list2)
 
-"""
 #wAF to find factorial of a number
 
 def fact(num):
@@ -82,3 +78,4 @@ def convert_usd_to_pkr(usd):
     print(usd,"USD = ",pkr,"PKR")
 
 convert_usd_to_pkr(67)
+
